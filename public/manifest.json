@@ -1,0 +1,11 @@
+{
+  "name": "Budget Étudiant",
+  "short_name": "Budget",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FDF6EE",
+  "theme_color": "#FDF6EE",
+  "icons": [
+    { "src": "/icon.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
